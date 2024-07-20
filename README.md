@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @[NomanMunir] (https://main--nomanmunir.netlify.app/)
+- 👋 Hi, I’m @[NomanMunir](https://main--nomanmunir.netlify.app/)
 - 👀 I’m interested in JavaScript it's libraries and frameworks
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any JavaScript projects
