@@ -15,7 +15,7 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 - 🌱 **Currently Learning**: Advanced React patterns, system design, and distributed systems
 - 🎯 **2025 Goals**: Contribute to open source, master DevOps, and build impactful projects
 
-🌐 **[Explore My Complete Portfolio](https://nauman-portfolio.netlify.com)** - Detailed project showcases, experience timeline, and achievements
+🌐 **[Explore My Complete Portfolio](https://portfolio-nauman.netlify.app/)** - Detailed project showcases, experience timeline, and achievements
 
 ---
 
@@ -33,7 +33,7 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 - **Tech**: C, MLX, Mathematics
 - **Features**: 3D rendering, texture mapping
 - **Achievement**: Complex algorithm implementation
-- **[🔗 Portfolio Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=cub3d)**
+- **[🔗 Portfolio Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=cub3d)**
 
 </td>
 <td width="50%">
@@ -44,7 +44,7 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 - **Tech**: React, Charts.js, Analytics
 - **Impact**: Improved team performance tracking
 - **Recognition**: Led to Employee of the Month award
-- **[🔗 Portfolio Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=dhl_dashboard)**
+- **[🔗 Portfolio Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=dhl_dashboard)**
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 - **Tech**: JavaScript, Django, WebSocket
 - **Features**: Real-time game, chat, tournaments
 - **Status**: Currently in development
-- **[🔗 Portfolio Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=ft_transcendence)**
+- **[🔗 Portfolio Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=ft_transcendence)**
 
 </td>
 <td width="50%">
@@ -68,13 +68,13 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 - **Tech**: C++, HTTP/1.1, Socket Programming
 - **Features**: Multi-client, CGI support
 - **Learning**: Network programming mastery
-- **[🔗 Portfolio Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=webserv)**
+- **[🔗 Portfolio Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=webserv)**
 
 </td>
 </tr>
 </table>
 
-**[🚀 View All 15+ Projects](https://nauman-portfolio.netlify.com/project.html)**
+**[🚀 View All 15+ Projects](https://portfolio-nauman.netlify.app/project.html)**
 
 </div>
 
@@ -152,26 +152,26 @@ I'm a passionate **Software Developer** and **Full Stack Engineer** with a uniqu
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🎮 **[Cub3D](https://github.com/NomanMunir/cub3d)** | Raycasting game engine inspired by Wolfenstein 3D | `C` `MLX` `Mathematics` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=cub3d) |
-| 🔄 **[ft_transcendence](https://github.com/NomanMunir/ft_transcendence)** | Real-time Pong game with chat & tournaments | `JavaScript` `Django` `WebSocket` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=ft_transcendence) |
-| 🖥️ **[Webserv](https://github.com/NomanMunir/webserv)** | HTTP server implementation from scratch | `C++` `HTTP` `Socket Programming` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=webserv) |
-| 🧠 **[Philosophers](https://github.com/NomanMunir/philosophers)** | Dining philosophers problem with threading | `C` `Threads` `Mutexes` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=philosophers) |
-| 🐚 **[Minishell](https://github.com/NomanMunir/minishell)** | Custom shell with command parsing & execution | `C` `Shell` `Parser` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=minishell) |
+| 🎮 **[Cub3D](https://github.com/NomanMunir/cub3d)** | Raycasting game engine inspired by Wolfenstein 3D | `C` `MLX` `Mathematics` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=cub3d) |
+| 🔄 **[ft_transcendence](https://github.com/NomanMunir/ft_transcendence)** | Real-time Pong game with chat & tournaments | `JavaScript` `Django` `WebSocket` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=ft_transcendence) |
+| 🖥️ **[Webserv](https://github.com/NomanMunir/webserv)** | HTTP server implementation from scratch | `C++` `HTTP` `Socket Programming` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=webserv) |
+| 🧠 **[Philosophers](https://github.com/NomanMunir/philosophers)** | Dining philosophers problem with threading | `C` `Threads` `Mutexes` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=philosophers) |
+| 🐚 **[Minishell](https://github.com/NomanMunir/minishell)** | Custom shell with command parsing & execution | `C` `Shell` `Parser` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=minishell) |
 
 ### 💼 **Professional Projects**
 
 | Project | Description | Tech Stack | Portfolio Link |
 |---------|-------------|------------|----------------|
-| 📊 **[DHL Staff Dashboard](https://github.com/NomanMunir/dhl-dashboard)** | Performance tracking & analytics dashboard | `React` `Charts.js` `Dashboard` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=dhl_dashboard) |
-| 🏕️ **[YelpCamp](https://github.com/NomanMunir/yelpcamp)** | Full-stack campground review platform | `Node.js` `Express` `MongoDB` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=yelp_camp) |
-| 🔐 **[Born2beroot](https://github.com/NomanMunir/born2beroot)** | Secure virtual server environment setup | `Linux` `VirtualBox` `Security` | [View Details](https://nauman-portfolio.netlify.com/dynamic-detail.html?project=born2beroot) |
+| 📊 **[DHL Staff Dashboard](https://github.com/NomanMunir/dhl-dashboard)** | Performance tracking & analytics dashboard | `React` `Charts.js` `Dashboard` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=dhl_dashboard) |
+| 🏕️ **[YelpCamp](https://github.com/NomanMunir/yelpcamp)** | Full-stack campground review platform | `Node.js` `Express` `MongoDB` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=yelp_camp) |
+| 🔐 **[Born2beroot](https://github.com/NomanMunir/born2beroot)** | Secure virtual server environment setup | `Linux` `VirtualBox` `Security` | [View Details](https://portfolio-nauman.netlify.app/dynamic-detail.html?project=born2beroot) |
 
 ### 🎯 **Current Focus**
 - 🚀 **[ft_transcendence](https://github.com/NomanMunir/ft_transcendence)** - Advanced full-stack web application (In Progress)
 - 🛠️ **Open Source Contributions** - Contributing to developer community projects
 - 📚 **System Design** - Learning scalable architecture patterns
 
-**[🌐 View All Projects in Portfolio](https://nauman-portfolio.netlify.com/project.html)**
+**[🌐 View All Projects in Portfolio](https://portfolio-nauman.netlify.app/project.html)**
 
 </div>
 
@@ -248,20 +248,20 @@ I envision myself as a **Senior Software Engineer** who bridges the gap between 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nauman-portfolio.netlify.com/)
-[![Experience](https://img.shields.io/badge/💼_Experience-4CAF50?style=for-the-badge&logo=briefcase&logoColor=white)](https://nauman-portfolio.netlify.com/experience.html)
-[![Projects](https://img.shields.io/badge/🚀_Projects-2196F3?style=for-the-badge&logo=rocket&logoColor=white)](https://nauman-portfolio.netlify.com/project.html)
-[![Certificates](https://img.shields.io/badge/🎓_Certificates-9C27B0?style=for-the-badge&logo=certificate&logoColor=white)](https://nauman-portfolio.netlify.com/certificates.html)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-nauman.netlify.app/)
+[![Experience](https://img.shields.io/badge/💼_Experience-4CAF50?style=for-the-badge&logo=briefcase&logoColor=white)](https://portfolio-nauman.netlify.app/experience.html)
+[![Projects](https://img.shields.io/badge/🚀_Projects-2196F3?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-nauman.netlify.app/project.html)
+[![Certificates](https://img.shields.io/badge/🎓_Certificates-9C27B0?style=for-the-badge&logo=certificate&logoColor=white)](https://portfolio-nauman.netlify.app/certificates.html)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanmunir/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nauman.munir@protonmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NomanMunir)
 
 ### 🎯 **Quick Portfolio Navigation**
-- 🏢 **[42 Abu Dhabi Experience](https://nauman-portfolio.netlify.com/42-experience.html)** - My journey at 42 School
-- 📦 **[DHL Experience](https://nauman-portfolio.netlify.com/dhl-experience.html)** - Employee of the Month achievements
-- ✈️ **[Emirates Experience](https://nauman-portfolio.netlify.com/emirates-experience.html)** - Aviation engineering background
-- 🎯 **[Goals & Vision](https://nauman-portfolio.netlify.com/reflection.html)** - Future aspirations and roadmap
+- 🏢 **[42 Abu Dhabi Experience](https://portfolio-nauman.netlify.app/42-experience.html)** - My journey at 42 School
+- 📦 **[DHL Experience](https://portfolio-nauman.netlify.app/dhl-experience.html)** - Employee of the Month achievements
+- ✈️ **[Emirates Experience](https://portfolio-nauman.netlify.app/emirates-experience.html)** - Aviation engineering background
+- 🎯 **[Goals & Vision](https://portfolio-nauman.netlify.app/reflection.html)** - Future aspirations and roadmap
 
 </div>
 
